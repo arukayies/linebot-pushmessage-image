@@ -1,2 +1,2 @@
-# -linebot-pushmessage-image
+# linebot-pushmessage-image
 https://arukayies.com/gas/line_bot/pushmessage-image
